@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\BankApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\bankingcreditsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\bankingcreditsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankingCreditSystem.Application",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
+              "RelativeToolTip": "BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T23:12:51.982Z",
+              "EditorCaption": ""
             }
           ]
         }
