@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\BankApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\bankingcreditsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\bankingcreditsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\corporatecustomers\\rules\\corporatecustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\corporatecustomers\\rules\\corporatecustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82683DF6-1183-4BD9-A880-E7DEF0EEE7B3}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\bankapp\\bankingcreditsystem.persistence\\bankingcreditsystem.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82683DF6-1183-4BD9-A880-E7DEF0EEE7B3}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\bankingcreditsystem.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404BB1B-C616-4244-B643-E0218F6C24CC}|BankingCreditSystem.WebApi\\BankingCreditSystem.WebApi.csproj|c:\\bankapp\\bankingcreditsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404BB1B-C616-4244-B643-E0218F6C24CC}|BankingCreditSystem.WebApi\\BankingCreditSystem.WebApi.csproj|solutionrelative:bankingcreditsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\notfoundproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\notfoundproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\rules\\individualcustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\rules\\individualcustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA19F-DD4A-4DF5-91C4-079CC293E8A3}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:36:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankingCreditSystem.Persistence",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj",
+              "RelativeToolTip": "BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T15:24:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankingCreditSystem.Core",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "RelativeToolTip": "BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T15:17:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CorporateCustomerBusinessRules.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Rules\\CorporateCustomerBusinessRules.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Rules\\CorporateCustomerBusinessRules.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Rules\\CorporateCustomerBusinessRules.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Rules\\CorporateCustomerBusinessRules.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:12:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpExceptionHandler.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:20.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:10:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.WebApi\\Program.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.WebApi\\Program.cs",
+              "RelativeToolTip": "BankingCreditSystem.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:11:03.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:10:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotFoundProblemDetails.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:10:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndividualCustomerBusinessRules.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:09:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusinessProblemDetails.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:09:33.743Z",
+              "EditorCaption": ""
             }
           ]
         }

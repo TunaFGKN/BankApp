@@ -13,3 +13,4 @@ C:\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domai
 C:\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\refint\BankingCreditSystem.Domain.dll
 C:\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.pdb
 C:\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\ref\BankingCreditSystem.Domain.dll
+C:\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.sourcelink.json

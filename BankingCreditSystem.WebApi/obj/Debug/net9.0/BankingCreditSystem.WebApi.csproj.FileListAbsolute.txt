@@ -85,3 +85,6 @@ C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\FluentValidation.dll
 C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\MediatR.dll
 C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\BankApp\BankingCreditSystem.WebApi\bin\Debug\net9.0\Newtonsoft.Json.dll
