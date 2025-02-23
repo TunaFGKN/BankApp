@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\BankApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\queries\\searchindividualcustomers\\searchindividualcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\queries\\searchindividualcustomers\\searchindividualcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\bankingcreditsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\bankingcreditsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\queries\\getindividualcustomerlist\\getindividualcustomerlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\queries\\getindividualcustomerlist\\getindividualcustomerlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\profiles\\individualcustomermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\profiles\\individualcustomermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\corporatecustomers\\queries\\searchcorporatecustomers\\searchcorporatecustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\corporatecustomers\\queries\\searchcorporatecustomers\\searchcorporatecustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\corporatecustomers\\queries\\getcorporatecustomerlist\\getcorporatecustomerlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\corporatecustomers\\queries\\getcorporatecustomerlist\\getcorporatecustomerlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\bankapp\\bankingcreditsystem.application\\features\\corporatecustomers\\profiles\\corporatecustomermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA70F9B-816D-43DE-9079-179C9BA88FE4}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\corporatecustomers\\profiles\\corporatecustomermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankingCreditSystem.Application",
               "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
               "RelativeDocumentMoniker": "BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
               "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
               "RelativeToolTip": "BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-22T23:12:51.982Z",
+              "WhenOpened": "2025-02-23T00:17:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchIndividualCustomersQuery.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\SearchIndividualCustomers\\SearchIndividualCustomersQuery.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\SearchIndividualCustomers\\SearchIndividualCustomersQuery.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\SearchIndividualCustomers\\SearchIndividualCustomersQuery.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\SearchIndividualCustomers\\SearchIndividualCustomersQuery.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:14:47.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetIndividualCustomerListQuery.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetIndividualCustomerList\\GetIndividualCustomerListQuery.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetIndividualCustomerList\\GetIndividualCustomerListQuery.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetIndividualCustomerList\\GetIndividualCustomerListQuery.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetIndividualCustomerList\\GetIndividualCustomerListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:14:17.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndividualCustomerMappingProfile.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerMappingProfile.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerMappingProfile.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerMappingProfile.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\IndividualCustomerMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:14:00.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchCorporateCustomersQuery.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\SearchCorporateCustomers\\SearchCorporateCustomersQuery.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\SearchCorporateCustomers\\SearchCorporateCustomersQuery.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\SearchCorporateCustomers\\SearchCorporateCustomersQuery.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\SearchCorporateCustomers\\SearchCorporateCustomersQuery.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:13:08.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCorporateCustomerListQuery.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\GetCorporateCustomerList\\GetCorporateCustomerListQuery.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\GetCorporateCustomerList\\GetCorporateCustomerListQuery.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\GetCorporateCustomerList\\GetCorporateCustomerListQuery.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Queries\\GetCorporateCustomerList\\GetCorporateCustomerListQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:12:31.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorporateCustomerMappingProfile.cs",
+              "DocumentMoniker": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\CorporateCustomerMappingProfile.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\CorporateCustomerMappingProfile.cs",
+              "ToolTip": "C:\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\CorporateCustomerMappingProfile.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\CorporateCustomerMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:11:43.624Z",
               "EditorCaption": ""
             }
           ]

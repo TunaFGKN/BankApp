@@ -17,3 +17,4 @@ C:\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\BankingCreditSystem.
 C:\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\refint\BankingCreditSystem.Persistence.dll
 C:\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\BankingCreditSystem.Persistence.pdb
 C:\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\ref\BankingCreditSystem.Persistence.dll
+C:\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\BankingCreditSystem.Persistence.sourcelink.json

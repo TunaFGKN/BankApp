@@ -1,3 +1,9 @@
+using AutoMapper;
+using BankingCreditSystem.Application.Features.IndividualCustomers.DTOs.Requests;
+using BankingCreditSystem.Application.Features.IndividualCustomers.DTOs.Responses;
+using BankingCreditSystem.Application.Services.Repositories;
+using MediatR;
+
 namespace BankingCreditSystem.Application.Features.IndividualCustomers.Queries.SearchIndividualCustomers;
 
 public class SearchIndividualCustomersQuery : IRequest<List<IndividualCustomerResponse>>

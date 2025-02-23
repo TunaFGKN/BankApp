@@ -15,3 +15,4 @@ C:\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.
 C:\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\refint\BankingCreditSystem.Application.dll
 C:\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.pdb
 C:\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\ref\BankingCreditSystem.Application.dll
+C:\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.sourcelink.json

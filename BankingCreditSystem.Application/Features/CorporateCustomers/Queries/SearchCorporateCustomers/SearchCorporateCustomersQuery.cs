@@ -1,3 +1,9 @@
+using AutoMapper;
+using BankingCreditSystem.Application.Features.CorporateCustomers.DTOs.Requests;
+using BankingCreditSystem.Application.Features.CorporateCustomers.DTOs.Responses;
+using BankingCreditSystem.Application.Services.Repositories;
+using MediatR;
+
 namespace BankingCreditSystem.Application.Features.CorporateCustomers.Queries.SearchCorporateCustomers;
 
 public class SearchCorporateCustomersQuery : IRequest<List<CorporateCustomerResponse>>
