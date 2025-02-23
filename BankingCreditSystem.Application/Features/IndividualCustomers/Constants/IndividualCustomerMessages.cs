@@ -7,4 +7,5 @@ public static class IndividualCustomerMessages
     public const string CustomerUpdated = "Individual customer updated successfully.";
     public const string InvalidIdentityNumber = "Invalid identity number.";
     public const string NationalIdAlreadyExists = "National id already exists.";
+    public const string CustomerDeleted = "Customer deleted.";
 }

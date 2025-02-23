@@ -6,4 +6,5 @@ public class UpdatedCorporateCustomerResponse
     public string CompanyName { get; set; }
     public string Email { get; set; }
     public DateTime UpdatedDate { get; set; }
+    public string Message { get; internal set; }
 } 

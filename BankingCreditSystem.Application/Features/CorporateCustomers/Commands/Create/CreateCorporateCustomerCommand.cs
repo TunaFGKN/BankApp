@@ -4,6 +4,11 @@ using System.Threading.Tasks;
 using MediatR;
 using AutoMapper;
 using BankingCreditSystem.Application.Features.CorporateCustomers.Rules;
+using BankingCreditSystem.Application.Features.CorporateCustomers.DTOs.Responses;
+using BankingCreditSystem.Application.Features.CorporateCustomers.DTOs.Requests;
+using BankingCreditSystem.Application.Services.Repositories;
+using BankingCreditSystem.Domain.Entities;
+using BankingCreditSystem.Application.Features.CorporateCustomers.Constants;
 
 namespace BankingCreditSystem.Application.Features.CorporateCustomers.Commands.Create
 {

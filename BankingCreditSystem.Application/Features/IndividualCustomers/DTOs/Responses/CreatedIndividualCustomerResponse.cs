@@ -8,4 +8,5 @@ public class CreatedIndividualCustomerResponse
     public string IdentityNumber { get; set; }
     public string Email { get; set; }
     public DateTime CreatedDate { get; set; }
+    public string Message { get; internal set; }
 } 

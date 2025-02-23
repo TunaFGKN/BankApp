@@ -7,4 +7,5 @@ public class UpdatedIndividualCustomerResponse
     public string LastName { get; set; }
     public string Email { get; set; }
     public DateTime UpdatedDate { get; set; }
+    public string Message { get; internal set; }
 } 

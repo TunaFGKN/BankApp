@@ -4,6 +4,8 @@ using System.Threading.Tasks;
 using MediatR;
 using AutoMapper;
 using BankingCreditSystem.Application.Features.IndividualCustomers.Rules;
+using BankingCreditSystem.Application.Features.IndividualCustomers.DTOs.Responses;
+using BankingCreditSystem.Application.Services.Repositories;
 
 namespace BankingCreditSystem.Application.Features.IndividualCustomers.Queries.GetById
 {

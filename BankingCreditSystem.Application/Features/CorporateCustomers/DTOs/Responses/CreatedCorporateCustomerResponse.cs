@@ -7,4 +7,5 @@ public class CreatedCorporateCustomerResponse
     public string TaxNumber { get; set; }
     public string Email { get; set; }
     public DateTime CreatedDate { get; set; }
-} 
+    public string Message { get; set; } // Added this property to fix the error
+}

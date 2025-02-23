@@ -3,6 +3,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using MediatR;
 using BankingCreditSystem.Application.Features.CorporateCustomers.Rules;
+using BankingCreditSystem.Application.Features.CorporateCustomers.DTOs.Responses;
+using BankingCreditSystem.Application.Services.Repositories;
+using BankingCreditSystem.Application.Features.CorporateCustomers.Constants;
 
 
 namespace BankingCreditSystem.Application.Features.CorporateCustomers.Commands.Delete
@@ -34,7 +37,7 @@ namespace BankingCreditSystem.Application.Features.CorporateCustomers.Commands.D
                 return new DeletedCorporateCustomerResponse
                 {
                     Id = command.Id,
-                    Message = CorporateCustomerMessages.CustomerDeleted
+                    DeletedDate = DateTime.Now
                 };
             }
         }
