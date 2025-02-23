@@ -11,4 +11,5 @@ public static class CorporateCustomerMessages
     public const string DuplicateTaxNumber = "A company with this tax number already exists.";
     public const string InvalidPhoneNumber = "Invalid phone number format.";
     public const string InvalidEmailFormat = "Invalid email format.";
+    public const string TaxNumberAlreadyExists = "Tax number already exists.";
 } 

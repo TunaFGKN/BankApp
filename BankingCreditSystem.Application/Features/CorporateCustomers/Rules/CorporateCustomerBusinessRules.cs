@@ -1,5 +1,7 @@
 using System;
 using System.Threading.Tasks;
+using BankingCreditSystem.Application.Features.CorporateCustomers.Constants;
+using BankingCreditSystem.Application.Services.Repositories;
 
 namespace BankingCreditSystem.Application.Features.CorporateCustomers.Rules
 {
