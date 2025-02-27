@@ -8,9 +8,9 @@ public class CorporateCustomerConfiguration : IEntityTypeConfiguration<Corporate
 {
     public void Configure(EntityTypeBuilder<CorporateCustomer> builder)
     {
-        builder.ToTable("CorporateCustomers");
+        builder.ToTable("CorporateCustomers"); // Seperate table for Corporate Customers.
 
-        builder.HasKey(c => c.Id);
+        builder.HasBaseType<Customer>(); // Main table is Customer.
 
         builder.Property(c => c.CompanyName)
             .HasMaxLength(100)
@@ -30,9 +30,9 @@ public class CorporateCustomerConfiguration : IEntityTypeConfiguration<Corporate
 
         builder.Property(c => c.AuthorizedPersonName)
             .HasMaxLength(100)
-            .IsRequired();        
+            .IsRequired();
 
         builder.HasIndex(c => c.TaxNumber)
             .IsUnique();
     }
-} 
+}

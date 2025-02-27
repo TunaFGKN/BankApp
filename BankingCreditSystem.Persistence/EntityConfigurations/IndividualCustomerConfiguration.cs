@@ -8,9 +8,9 @@ public class IndividualCustomerConfiguration : IEntityTypeConfiguration<Individu
 {
     public void Configure(EntityTypeBuilder<IndividualCustomer> builder)
     {
-        builder.ToTable("IndividualCustomers");
+        builder.ToTable("IndividualCustomers"); // Seperate table for individual customers.
 
-        builder.HasKey(c => c.Id);
+        builder.HasBaseType<Customer>(); // Main table is customers.
 
         builder.Property(c => c.FirstName)
             .HasMaxLength(50)
@@ -27,4 +27,4 @@ public class IndividualCustomerConfiguration : IEntityTypeConfiguration<Individu
         builder.HasIndex(c => c.NationalId)
             .IsUnique();
     }
-} 
+}

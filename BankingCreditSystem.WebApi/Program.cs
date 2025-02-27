@@ -1,6 +1,7 @@
 using Microsoft.OpenApi.Models;
 using BankingCreditSystem.Application;
 using BankingCreditSystem.Persistence;
+using BankingCreditSystem.Application.Features.CorporateCustomers.Queries.SearchCorporateCustomers;
 
 var builder = WebApplication.CreateBuilder(args);
 

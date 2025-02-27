@@ -1,4 +1,5 @@
 using BankingCreditSystem.Domain.Entities;
+using BankingCreditSystem.Persistence.EntityConfigurations;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
@@ -17,6 +18,9 @@ public class BaseDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.ApplyConfiguration(new CustomerConfiguration());
+        modelBuilder.ApplyConfiguration(new CorporateCustomerConfiguration());
+        modelBuilder.ApplyConfiguration(new IndividualCustomerConfiguration());
         modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
     }
 } 

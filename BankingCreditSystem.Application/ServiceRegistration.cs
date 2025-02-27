@@ -1,6 +1,7 @@
 using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 using BankingCreditSystem.Application.Features.IndividualCustomers.Rules;
+using BankingCreditSystem.Application.Features.CorporateCustomers.Rules;
 
 namespace BankingCreditSystem.Application;
 
@@ -13,6 +14,7 @@ public static class ServiceRegistration
         
         // Business Rules
         services.AddScoped<IndividualCustomerBusinessRules>();
+        services.AddScoped<CorporateCustomerBusinessRules>();
 
         return services;
     }
